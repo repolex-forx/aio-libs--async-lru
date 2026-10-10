@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/async-lru/commit/639c403a266d99d223c649cb00fddaf40f371c85",
       "git:hexsha": "639c403a266d99d223c649cb00fddaf40f371c85",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/async-lru/commit/1330ecb5aea12738dcd0504c21c1e7803d7a9af7",
